@@ -1,2 +1,3 @@
 # scideology-app
-Open Source home of the Scideology App Service 
+
+CI Open Source home of the Scideology App Service 
